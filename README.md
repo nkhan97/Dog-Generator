@@ -1,3 +1,17 @@
+### Description
+Dog generator is a responsive application that allows users to sift through numerous images of dogs.
+
+This application is straightforward, and requires users to press a button to generate images of dogs. The user can only see one image at a time, but can click the button unlimited times to generate new images. Dog generator obtains these images via the Dog CEO API, a free online API.
+
+### Installation
+The application requires the following dependencies and/or package managers:
+
+### `$ npm install axios react-router-dom @material-ui/core @material-ui/icons`
+
+When downloaded, the application requires the input of npm install into the command line interface in order to download the contents of the package.json.
+The application can then be initiated by inputting npm start into the command line.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

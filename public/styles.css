@@ -1,0 +1,103 @@
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #666666;
+  background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
+}
+
+
+/* Navbar */
+.navbar {
+  background-color: #f5ba13;
+  width: 100%;
+  height: 75px;
+  padding-top: 20px;
+}
+
+.siteName {
+  font-size: 1.3rem;
+  color: white;
+  font-weight: bold;
+  padding-left: 15px;
+  float: left;
+}
+
+.navRight {
+  font-size: 1.1rem;
+  float: right;
+  display: inline;
+}
+
+.navLinks {
+  padding-right: 30px;
+  color: white;
+  position: relative;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.navLinks:hover {
+  color: black;
+}
+
+/* Hero */
+.container {
+  text-align: center; 
+  position: relative;
+  padding-top: 80px; 
+}
+
+.button {
+  margin-top: 100px;
+
+}
+
+.text {
+  text-align: center;
+  font-size: 0.6rem;
+  position: relative; 
+  top: 20%;
+}
+
+.heroText {
+  padding-top: 30px;
+}
+
+/* Dog */
+.dogImg {
+  padding-top: 100px;
+  height: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* About */
+.aboutSection {
+  padding-top: 100px;
+}
+
+.aboutHeader {
+  font-weight: bold;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.aboutText {
+  padding-top: 20px;
+  color: rgb(46, 45, 45);
+
+}
+
+/* Footer  */
+.copyright {
+  color: rgb(90, 90, 90);
+  text-align: center;
+  font-size: 0.8rem;
+  padding: 20px;
+  margin-top: 200px;
+}
+
